@@ -1,7 +1,7 @@
 name: TESTXDC
 favicon: null
-layout_spectrum: 0.10670960345305502
-typography_spectrum: 0.9574225062970072
+layout_spectrum: 0
+typography_spectrum: 0.904
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#181818'
+    - '#f90d1b'
+    - '#d9d0d0'
+    - '#838383'
   brandStrength: 0.8323682779446244
-  lightness: 0.10810539941303432
-  saturation: 0.42026153113693
-  rhythmicContrast: 0.39668987574987113
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
