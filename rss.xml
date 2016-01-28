@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[TESTXDC]]></title>
         <description><![CDATA[TESTXDC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testxdc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 17:23:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 17:26:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testxdc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>##LAS VEGAS HISTORY HAS BEEN MADE</p>]]></description>
+            <link>https://thegrid.ai/testxdc/9e961171-7a64-4240-833b-4b8d85a36846/index.html</link>
+            <guid isPermaLink="false">9e961171-7a64-4240-833b-4b8d85a36846</guid>
+            <pubDate>Thu, 28 Jan 2016 17:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone Racing in Las Vegas! - XDC!]]></title>
+            <description><![CDATA[<article><h1>Drone Racing in Las Vegas! - XDC!</h1><p>I recently hosted XDC Drone Racing in Downtown Las Vegas, Nevada at the Zappos Headquarters! It's the future! http://xdcracing.com/ Subscribe to JRSportBrief: http://www.youtube.com/subscription_center?add_user=JRSportBrief Interviews and commentary with Kobe Bryant, Pelé, Manny Pacquiao and everyone in between! By a fan, for the fans! Videos all week long. JRSportBrief@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc93d9a6487750ae07d45a3642628b4a87208409.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uOT3a-zsLeE</link>
+            <guid isPermaLink="false">7785a9a6-61fd-4430-98b9-44bfa6fe2bcc</guid>
+            <pubDate>Thu, 28 Jan 2016 17:22:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>In first-person view drone racing, the racers see what their drones see.</p>]]></description>
